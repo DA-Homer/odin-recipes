@@ -1,0 +1,17 @@
+#main-page-title {
+    color: black;
+    font-size: 40px;
+    font-family: Garamond, "Times New Roman";
+    text-align: center;
+}
+.burger-recipe{
+    font-family: Helvetica, sans-serif;
+    text-align: justify; 
+}
+
+ul, ol, p{
+    font-family: Helvetica, sans-serif; 
+}
+
+
+
